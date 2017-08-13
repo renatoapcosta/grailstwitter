@@ -32,7 +32,7 @@ class StatusTagLib {
                 }
             }
         } else {
-            out << '(you)'
+            out << '(você)'
         }
     }
 
